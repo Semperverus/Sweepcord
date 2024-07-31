@@ -1,0 +1,18 @@
+[project]
+name = "sweepcord"
+version = "0.0.1"
+authors = [
+  { name="Semperverus", email="semperverus@gmail.com" },
+]
+description = "A daemon written in Python that allows you to automatically delete Discord messages older than a set time period."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GPLv3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Semperverus/Sweepcord"
+Issues = "https://github.com/Semperverus/Sweepcord/issues"
