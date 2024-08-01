@@ -1,6 +1,8 @@
 # Sweepcord
 Sweepcord is a daemon written in Python that allows you to automatically delete Discord messages older than a set time period. It runs invisibly on your computer and tidies up behind you as you chat.
 
+This project was heavily inspired by [Undiscord](), which was also used as a reference. As such, there will be strong similarities in the code. Undiscord is OSS-licensed under the MIT license.
+
 ⚠️ THIS PROJECT IS CURRENTLY A WORK IN PROGRESS ⚠️
 
 ## How to Use
